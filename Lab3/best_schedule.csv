@@ -1,0 +1,41 @@
+Time Slot,Group,Subject,Lecturer,Room
+1,Group 5,Biology,Dr. Jones,Room 3
+1,Group 1,Physics,Dr. Smith,Room 2
+2,Group 5,Biology,Dr. Jones,Room 3
+2,Group 1 Subgroup 1,Math,Dr. Smith,Room 6
+3,Group 2 Subgroup 2,Chemistry,Dr. Jones,Room 5
+3,Group 5 Subgroup 1,Math,Dr. Smith,Room 6
+4,Group 2 Subgroup 1,Chemistry,Dr. Jones,Room 5
+4,Group 5 Subgroup 2,Math,Dr. Smith,Room 1
+5,Group 5 Subgroup 2,Math,Dr. Smith,Room 5
+5,Group 2,Biology,Dr. Jones,Room 3
+6,Group 5 Subgroup 2,Math,Dr. Smith,Room 6
+6,Group 2,Biology,Dr. Jones,Room 1
+7,Group 2,Biology,Dr. Jones,Room 1
+7,Group 5 Subgroup 1,Math,Dr. Smith,Room 6
+8,Group 5 Subgroup 1,Math,Dr. Smith,Room 2
+8,Group 3 Subgroup 1,Chemistry,Dr. Jones,Room 6
+9,Group 3 Subgroup 2,Chemistry,Dr. Jones,Room 2
+9,Group 5 Subgroup 1,Math,Dr. Smith,Room 1
+10,Group 1 Subgroup 1,Math,Dr. Smith,Room 6
+10,Group 3 Subgroup 2,Chemistry,Dr. Jones,Room 5
+11,Group 3 Subgroup 1,Chemistry,Dr. Jones,Room 2
+11,Group 1,Physics,Dr. Smith,Room 1
+12,Group 1 Subgroup 1,Math,Dr. Smith,Room 5
+12,Group 2 Subgroup 1,Chemistry,Dr. Jones,Room 3
+13,Group 2,Biology,Dr. Jones,Room 3
+13,Group 1 Subgroup 1,Math,Dr. Smith,Room 2
+14,Group 2,Biology,Dr. Jones,Room 3
+14,Group 1,Physics,Dr. Smith,Room 2
+15,Group 1 Subgroup 1,Math,Dr. Smith,Room 2
+15,Group 2 Subgroup 2,Chemistry,Dr. Jones,Room 3
+16,Group 1,Physics,Dr. Smith,Room 2
+16,Group 2 Subgroup 1,Chemistry,Dr. Jones,Room 3
+17,Group 1 Subgroup 2,Math,Dr. Smith,Room 1
+17,Group 2,Biology,Dr. Jones,Room 5
+18,Group 5,Biology,Dr. Jones,Room 5
+18,Group 4,Physics,Dr. Smith,Room 2
+19,Group 4,Physics,Dr. Smith,Room 3
+19,Group 5,Biology,Dr. Jones,Room 2
+20,Group 5,Biology,Dr. Jones,Room 4
+20,Group 4,Physics,Dr. Smith,Room 3
